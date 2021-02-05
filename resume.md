@@ -3,8 +3,6 @@ title: Resume
 layout: resume
 ---
 
-<b> Use this template to share your accomplishments </b>  
-
 ## Currently
 
 Graduate Research and Teaching Assistant, __University of Rochester__
@@ -42,7 +40,11 @@ Youth of Excellence Fellowship, Mexican Foundation for Education, Technology and
 
 `2020`
 Synthesis of nanostructured spinel metal ferrites for energy conversion and water remediation, Women in Renewable Energy
+
+`2020`
 Single-Source Precursors: A Springboard to the Synthesis of Monodisperse Metal Ferrite Nanocrystals, LatinXChem
+
+`2020`
 Heterobimetallic mixed valence MIIMIII μ3-oxo-carboxilate clusters for the synthesis of ternary metal oxide nanocrystals, Spring 2020 
 National Meeting of the American Chemical Society
 
