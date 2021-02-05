@@ -15,9 +15,5 @@ I am a PhD Candidate in Chemistry at the University of Rochester.
   I enjoy seeing myself as a proactive leader and being able to contribute on both the individual and team levels. 
   I am passionate about volunteering time for the advancement of science in different social sectors. 
   I hope to continue to develop myself as a professional by gaining both the depth and breadth of a multi-talented scientist.
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
+
   
