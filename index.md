@@ -9,7 +9,8 @@ I am a PhD Candidate in Chemistry at the University of Rochester.
   As a member of Professor Kathryn E. Knowles' [research group](https://www.sas.rochester.edu/chm/groups/knowles/), 
   I design novel approaches towards the synthesis of ternary metal oxide semiconductor 
   nanocrystals and study their fundamental properties via various Spectroscopic (XPS, UV-Vis-NIR, EDXS), 
-  Microscopic (TEM, SEM) and Diffraction (p-XRD, SC-XRD) techniques. 
+  Microscopic (TEM, SEM) and Diffraction (p-XRD, SC-XRD) techniques. I am currently exploring my nanocrystals performance
+  as catalysts fot water remediation.
   
   I enjoy seeing myself as a proactive leader and being able to contribute on both the individual and team levels. 
   I am passionate about volunteering time for the advancement of science in different social sectors. 
