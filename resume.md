@@ -7,63 +7,47 @@ layout: resume
 
 ## Currently
 
-Current Position Description
+Graduate Research and Teaching Assistant, __University of Rochester__
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2019 - Present`
+__University of Rochester__
+PhD in Chemistry
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2019 - 2020`
+__University of Rochester__
+MS in Chemistry 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019 and 2020`
+Samuel A. and Ellen F. Lattimore Fellowship, Department of Chemistry, University of Rochester
+
+`2018`
+Center for Chemical Research (CIQ) Scholar Award for Outstanding Academic Performance, Autonomous University of Morelos State (UAEM)
+
+`2016`
+Undergraduate Research Assistantship, National Council of Science and Technology (CONACYT) 
+
+`2016`
+Youth of Excellence Fellowship, Mexican Foundation for Education, Technology and Science (FUNED)/Citibanamex
+
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
 ## Presentations
 
-`1994`
-Presentation Title, Conference
+`2020`
+Synthesis of nanostructured spinel metal ferrites for energy conversion and water remediation, Women in Renewable Energy
+Single-Source Precursors: A Springboard to the Synthesis of Monodisperse Metal Ferrite Nanocrystals, LatinXChem
+Heterobimetallic mixed valence MIIMIII μ3-oxo-carboxilate clusters for the synthesis of ternary metal oxide nanocrystals, Spring 2020 
+National Meeting of the American Chemical Society
 
-
-## Employment History
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+`2017`
+Poly(pyrazolyl)aluminates as metalloligands, International Conference on Polymers and Advanced Materials (POLYMAT)
 
 
 
