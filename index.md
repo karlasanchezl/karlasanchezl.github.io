@@ -6,7 +6,7 @@ excerpt: "About Me..."
 ## About Me
 
 I am a PhD Candidate in Chemistry at the University of Rochester. 
-  As a member of Professor Kathryn E. Knowles' [research group](shorturl.at/aD048), 
+  As a member of Professor Kathryn E. Knowles' [research group](https://www.sas.rochester.edu/chm/groups/knowles/), 
   I design novel approaches towards the synthesis of ternary metal oxide semiconductor 
   nanocrystals and study their fundamental properties via various Spectroscopic (XPS, UV-Vis-NIR, EDXS), 
   Microscopic (TEM, SEM) and Diffraction (p-XRD, SC-XRD) techniques. 
