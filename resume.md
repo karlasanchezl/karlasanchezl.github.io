@@ -34,6 +34,9 @@ Youth of Excellence Fellowship, Mexican Foundation for Education, Technology and
 
 ## Publications
 
+Sanchez-Lievanos, K. R.; Tariq, M.; Brennessel, W. W.; Knowles, K. E. Heterometallic Trinuclear Oxo-centered Clusters 
+as Single-Source Precursors for Synthesis of Stoichiometric Monodisperse Transition Metal Ferrite Nanocrystals. Dalton Trans. 2020, 49, 16348-16358 [link](https://pubs.rsc.org/en/content/articlelanding/2020/DT/D0DT01369B#!divAbstract)
+
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ## Presentations
