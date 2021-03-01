@@ -17,6 +17,10 @@ PhD in Chemistry
 __University of Rochester__
 MS in Chemistry 
 
+`2014 - 2018`
+__Autonomous University of the State of Morelos (UAEM)__
+BS in Molecular Design and Nanochemistry
+
 ## Awards
 
 `2019 and 2020`
@@ -26,11 +30,13 @@ Samuel A. and Ellen F. Lattimore Fellowship, Department of Chemistry, University
 Center for Chemical Research (CIQ) Scholar Award for Outstanding Academic Performance, Autonomous University of Morelos State (UAEM)
 
 `2016`
-Undergraduate Research Assistantship, National Council of Science and Technology (CONACYT) 
+Undergraduate Research Fellowship, National Council of Science and Technology (CONACYT) 
 
 `2016`
-Youth of Excellence Fellowship, Mexican Foundation for Education, Technology and Science (FUNED)/Citibanamex
+Youth of Excellence Undergraduate Fellowship, Mexican Foundation for Education, Technology and Science (FUNED)/Citibanamex
 
+`2015-2018`
+UAEM Scholar Award for Outstanding Academic Performance, 2015-2018
 
 ## Publications
 
@@ -48,7 +54,7 @@ Synthesis of nanostructured spinel metal ferrites for energy conversion and wate
 Single-Source Precursors: A Springboard to the Synthesis of Monodisperse Metal Ferrite Nanocrystals, LatinXChem
 
 `2020`
-Heterobimetallic mixed valence MIIMIII μ3-oxo-carboxilate clusters for the synthesis of ternary metal oxide nanocrystals, Spring 2020 
+Heterobimetallic mixed valence M^I^IM^I^I^I μ_3-oxo-carboxilate clusters for the synthesis of ternary metal oxide nanocrystals, Spring 2020 
 National Meeting of the American Chemical Society
 
 `2017`
