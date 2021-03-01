@@ -54,7 +54,7 @@ Synthesis of nanostructured spinel metal ferrites for energy conversion and wate
 Single-Source Precursors: A Springboard to the Synthesis of Monodisperse Metal Ferrite Nanocrystals, LatinXChem
 
 `2020`
-Heterobimetallic mixed valence M^I^IM^I^I^I μ_3-oxo-carboxilate clusters for the synthesis of ternary metal oxide nanocrystals, Spring 2020 
+Heterobimetallic mixed-valence mixed-metal oxo-carboxilate clusters for the synthesis of ternary metal oxide nanocrystals, Spring 2020 
 National Meeting of the American Chemical Society
 
 `2017`
