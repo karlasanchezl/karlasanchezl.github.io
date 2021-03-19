@@ -44,7 +44,7 @@ Sanchez-Lievanos, K. R.; Tariq, M.; Brennessel, W. W.; Knowles, K. E. Heterometa
 as Single-Source Precursors for Synthesis of Stoichiometric Monodisperse Transition Metal Ferrite Nanocrystals. _Dalton Trans_. **2020**, _49_, 16348-16358 [link](https://pubs.rsc.org/en/content/articlelanding/2020/DT/D0DT01369B#!divAbstract)
 
 
-Sanchez-Lievanos, K. R.; Stair J. L; Knowles, K. E. Cation Distribution in Spinel Ferrite Nanocrystals: Characterization, Impact on their Physical Properties, and Opportunities for Synthetic Control. _Inorg. Chem_. **2021**, Accepted manuscript [link] (https://pubs.acs.org/doi/10.1021/acs.inorgchem.1c00040)
+Sanchez-Lievanos, K. R.; Stair J. L; Knowles, K. E. Cation Distribution in Spinel Ferrite Nanocrystals: Characterization, Impact on their Physical Properties, and Opportunities for Synthetic Control. _Inorg. Chem_. **2021**, Accepted manuscript [link](https://pubs.acs.org/doi/10.1021/acs.inorgchem.1c00040)
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
