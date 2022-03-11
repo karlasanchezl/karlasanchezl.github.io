@@ -23,21 +23,14 @@ BS in Molecular Design and Nanochemistry
 
 ## Work Experience
 
-**_Teaching Assistant_** - University of Rochester
+**_DAAD RISE Professional Intern_**, BASF, Ludwigshafen, Germany - Fall 2021
+
+**_Teaching Assistant_**, University of Rochester
 **SEM Practicum** - Spring 2021
-• Trained advanced undergraduate and graduate students on the practical aspects of performing SEM (Scanning Electron Microscope) and Scanning Probe (AFM, STM), and assisted them interpreting and analyzing the generated data.
 
 **_Advanced Laboratory Techniques_** - Spring 2020
-• Worked in a team of 8 people to organize the materials to train 7 advanced undergraduate students on the synthesis, characterization, and analysis applied to problems in inorganic and organic chemistry.
 
 **_Chemical Concepts, Systems and Practices II_** - Spring 2019
-• Trained 13 freshman students on the applications of chemical bonding, kinetics and thermodynamics.
-
- **_DAAD RISE Professional Intern_** - BASF, Ludwigshafen, Germany
-Project: "Physicochemical Characterizations of Multi-Component Materials"
-• Measured the surface reactivity and dissolution kinetics of a family of multi-component materials, e.g., Metal Organic Frameworks (MOFs) and Quantum Dots, by employing the Continuous Flow System (CFS) and the Ferric Reducing Ability of Serum (FRAS) methodologies, respectively.
-• Communicated with external partners who perform pairwise similarity calculations for nanomaterials grouping against biologically relevant reference materials.
-• My team outcomes were contributed to case studies relevant for safe-by-design (SbD) and grouping strategies for nanomaterials, in large EU-wide projects, such as HARMLESS (Advanced High Aspect Ratio and Multicomponent materials: towards comprehensive intelLigent tEsting and Safe by design Strategies)
 
 ## Awards
 
@@ -90,8 +83,10 @@ The Solvent Matters: Size, Crystal Phase and Morphology of Ternary Spinel Ferrit
 `2020`
 Synthesis of nanostructured spinel metal ferrites for energy conversion and water remediation. _Poster_, **Women in Renewable Energy**. Barcelona (Virtual), October 16, 2020.
 
+`2020`
 Single-Source Precursors: A Springboard to the Synthesis of Monodisperse Metal Ferrite Nanocrystals. _Poster_, **LatinXChem**. Twitter Conference, September 7, 2020.
 
+`2020`
 Heterobimetallic mixed-valence mixed-metal oxo-carboxilate clusters for the synthesis of ternary metal oxide nanocrystals. _Talk_, **Spring 2020 National Meeting of the American Chemical Society**. Philadelphia (Virtual), September 7, 2020.
 
 `2017`
